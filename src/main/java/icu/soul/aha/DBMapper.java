@@ -5,5 +5,4 @@ public interface DBMapper {
 
     void insert1();//执行单行长sql
 
-    void insert2();//执行短sql
 }
