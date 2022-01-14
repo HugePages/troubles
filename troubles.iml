@@ -95,5 +95,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.14" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.xmlunit:xmlunit-core:2.8.4" level="project" />
     <orderEntry type="library" name="Maven: org.mybatis:mybatis-spring:2.0.7-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Maven: p6spy:p6spy:3.7.0" level="project" />
   </component>
 </module>
