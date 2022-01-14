@@ -14,7 +14,7 @@ public class DemoController {
 
     @RequestMapping(value = "/insert-rollback", method = RequestMethod.GET)
     @ResponseBody
-    public void insertRollback(String type) {
-        demoRollbackService.insertRollback(type);
+    public void insertRollback(String type,String exception) {
+        demoRollbackService.insertRollback(type,exception);
     }
 }
